@@ -24,7 +24,7 @@
     "express": "^4.17.1",
     "express-session": "^1.17.0",
     "history": "^4.10.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mongoose": "^5.8.11",
     "node-media-server": "^2.1.4",
     "passport": "^0.4.1",
